@@ -1,0 +1,6 @@
+@GeoJsonToKml_HostAddress = http://localhost:5117
+
+GET {{GeoJsonToKml_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
